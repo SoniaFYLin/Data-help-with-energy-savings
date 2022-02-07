@@ -12,13 +12,15 @@ The code should run on Jupyter Notebook using Python versions 3.*. The used libr
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+Climate change is a global revelant urgant issue that might change our daily life in the short future. Green House Gas(GHG) emission is one of the most important impacts that needs to be mitigated. According to a report issued by the International Energy Agency(IEA), the lifecycle of buildings from construction to demolition were responsible for 37% of global energy emmisions in 2020. Find the more energy comsumption buildings to save energy is an efficent way to help with reduce GHG emission and cost saving. The energy usage for the building and the given year, measured as Site Energy Usage Intensity(Site EUI). Accurate prediction of Site EUI can help policymakers to target the buildings that might maximizie the emission reductions to retrofit them.
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+In this project, I was interested in knowing what are the cruicial impacts factor for energy comsumption of a building and use this information to predict an accurate Site EUI for each building. The Data is from the WiDS Datathon 2022
+
+1. How the building class (commercial or private property) influence the EUI?
+2. What factors are the cruicial impact factors for the energy comsumption of a building(given the top 10)?
+3. Does the building in the cool area or hot area that cause more energy comsumption? 
+4. 
+5. 
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
