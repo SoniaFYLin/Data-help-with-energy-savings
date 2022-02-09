@@ -17,10 +17,10 @@ Climate change is a global revelant urgant issue that might change our daily lif
 In this project, I was interested in knowing what are the cruicial impacts factor for energy comsumption of a building and use this information to predict an accurate Site EUI for each building. The Data is from the WiDS Datathon 2022
 
 1. How the building class (commercial or private property) influence the EUI?
-2. What factors are the cruicial impact factors for the energy comsumption of a building(given the top 10)?
+2. Do those older buildings waste more energy?
 3. Does the building in the cool area or hot area that cause more energy comsumption? 
 4. 
-5. 
+5. What factors are the cruicial impact factors for the energy comsumption of a building(given the top 10)?
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
