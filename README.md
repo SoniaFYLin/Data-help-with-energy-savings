@@ -69,7 +69,7 @@ There is an additional file `ManipulateCategory.py`that runs the necessary code 
 
 
 
-The main findings of the code can be found at the post available [here](https://medium.com/).
+The main findings of the code can be found at the post available [here](https://medium.com/@admost0118/eliminate-green-house-emission-data-can-help-4eac80bdf250).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
